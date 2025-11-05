@@ -7,9 +7,9 @@ timeline 
   2023 : Data Engineer     
        : Community comms lead   
   2024 : Lead Dev Ops Engineer      
-       : Post Bootcamp Support Deputy       
+       : Support Deputy       
        : Team Champion   
   2025 : Lead Dev Ops Engineer  
-       : Post Bootcamp Support Lead      
+       : Support Lead      
        : Azure Client Solutions Lead
 ```
