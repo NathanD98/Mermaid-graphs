@@ -1,3 +1,4 @@
+``` mermaid
 timeline  
   title Nathan Career Journey 
   2022 : Team Newsletter  
@@ -10,4 +11,5 @@ timeline 
        : Team Champion   
   2025 : Lead Dev Ops Engineer  
        : Post Bootcamp Support Lead      
-       : Azure Client Solutions Lead 
+       : Azure Client Solutions Lead
+```
