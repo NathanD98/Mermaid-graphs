@@ -1,3 +1,4 @@
+```mermaid
 gitGraph
     commit id: "Initial commit"
     branch develop
@@ -15,3 +16,4 @@ gitGraph
     checkout main
     merge release id: "Merge release into main"
     checkout develop
+```
