@@ -1,13 +1,13 @@
-``` mermaid
-architecture-beta
-    group api(cloud)[API]
 
-    service db(database)[Database] in api
-    service disk1(disk)[Storage] in api
-    service disk2(disk)[Storage] in api
-    service server(server)[Server] in api
-
-    db:L -- R:server
-    disk1:T -- B:server
-    disk2:T -- B:db
+```mermaid
+---
+title: Mint (Simple)
+---
+graph TB
+Client --> web[Web Server] --> accounts[Accounts API]
+accounts --> tes[Transaction Extraction Service] --> category[Category Service] & budget[Budget Service] & notif[Notification Service]
+accounts --> db
+tes --> db[SQL]
+tes --> store[Object Store]
 ```
+
