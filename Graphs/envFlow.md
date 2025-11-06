@@ -1,11 +1,11 @@
 ``` mermaid
 flowchart TD
-    A[Develop] -->|git commit via ALM| B[Build]
-    B --> C[UAT]
-    C --> D[Preprod]
-    D --> E[Prod]
+    A[Develop] -->|git commit| B[Build]
+    B --> C[TEST]
+    C --> D[SIT]
+    D --> E[PROD]
 
-    %% Notes above Preprod and Prod
+    %% Notes above SIT and Prod
     D:::annotated
     E:::annotated
 
