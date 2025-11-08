@@ -38,7 +38,7 @@ graph TD
 
 ## 🤝 Contribute
 
-We are building a vibrant coral reef of Mermaid diagrams! Contributions are welcome. Please check out our **[CONTRIBUTING.md](CONTRIBUTING.md)** for guidelines on submitting your own cool Mermaid code.
+I am building a vibrant coral reef of Mermaid diagrams! Contributions are welcome. Please check out my **[CONTRIBUTING.md](CONTRIBUTING.md)** for guidelines on submitting your own cool Mermaid code.
 
 1.  Fork the repository.
 2.  Create a new branch (`git checkout -b feature/CoolDiagram`).
